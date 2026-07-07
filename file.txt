@@ -1,6 +1,0 @@
-
----
-
-You can now upload this folder as a GitHub repo. The `train.py` will print logs and produce plots that correspond to the client-wise and global results as you requested.
-
-If you want me to prepare an extension for Fed-TCGA-BRCA or specific notebook format, just ask!
